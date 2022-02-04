@@ -1,7 +1,6 @@
 ### Olá, eu sou Allan Ched 👋
 
 - 📫 Estudando HTML, CSS e JS no momento.
-- 💬 Pronomes: ele/dele.
 - ⚡ Irei atualizar recorrentemente os repositórios públicos.
 
 <div>
