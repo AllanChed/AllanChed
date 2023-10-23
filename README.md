@@ -5,11 +5,13 @@
 - 📫 Com conhecimento em Node.js, NPM, Express e estudando SQL.
 - ⚡ Projetos meus que recomendo dar uma olhada:
   
-<div>
+<!--
+<div style="display: none;">
   <a href="https://github.com/AllanChed">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanChed&show_icons=true&theme=dark"/>
 </div>
-  
+-->
+
 <div style="display: inline-block;"><br>
   <img align="center" alt="Allan-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allan-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
