@@ -2,7 +2,7 @@
 
 - 🌐 Desenvolvedor React;
 - 💡 Com experiência em HTML, CSS, JavaScript, React, Bootstrap e Design Responsivo;
-- 📫 Com conhecimento em Node.js, NPM, Express e estudando SQL;
+- 📫 Com conhecimento em Git, Node.js, NPM, Express e estudando SQL;
 - ⚡ Projetos meus que recomendo dar uma olhada:
   
 <!--
